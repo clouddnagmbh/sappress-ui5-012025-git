@@ -16,6 +16,7 @@ export default class Main extends Controller {
     }
 
     private onSavePressed(){
+        console.log("Test");
         MessageToast.show("Successfully saved.");
       }
 
