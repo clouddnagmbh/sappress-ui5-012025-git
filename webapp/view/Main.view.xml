@@ -9,6 +9,8 @@
                     <Input id="inputFirstname" />
                     <Label id="labelLastname" labelFor="inputLastname" text="Last name" />
                     <Input id="inputLastname" />
+                    <Label id="labelTitle" labelFor="inputTitle" text="Title" />
+                    <Input id="inputTitle" />
                 </f:content>
             </f:SimpleForm>
         </content>
